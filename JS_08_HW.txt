@@ -1,0 +1,10 @@
+What do you think is a particularly good use case for LLMs for science? How would you evaluate it? Your answer does not need to be in paragraphs. When you submit your homework form, you can link to a file in your Github repo where you wrote your answer.
+
+
+	One example of using LLMs for science that I am personally interested in is that of using LLMs in the medical field. For example, fine-tuning an LLM on data concerning symptoms, risk factors, frequently affected groups, and medications for a certain illness, and then test the model on a particular patient's demographics and symptoms. The model could then provide a list of possible diagnoses, including a likelihood of this diagnoses being true, as well as outputting a possible treatment method. This could be geared towards medical professionals to use in a doctor-patient setting, or tailored towards the general public that could use it like a medical "chat-bot". The model could be evaluated by simply observing how many errors/severity of errors that occur. If the model mistakenly predicts a strep throat diagnoses as instead allergies, this could be ranked as a low severity error, whereas if the model accidentally predicts a heart attack as instead muscular pain in left arm (a common heart attack symptoms in males), then it would be ranked as a high severity error. 
+
+	Overall, it would not be able to completely get rid of doctor-patient interactions, but has the ability to help those that may not have the funds/access to a medical professional at all times. Further exploration could be done in multilingual capabilities to allow non-native English speakers to also have access to this type of chat bot. 
+
+
+Julia Sammartino
+04/08/2024
